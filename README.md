@@ -34,3 +34,10 @@ The data should be downloaded as shown in Figure 1.
 ESA CCI soil moisture data are used to plot time series together with the in situ SM and to compute statistics between them. 
 The CCI SM v8.01 dataset can be downloaded from [here](https://catalogue.ceda.ac.uk/uuid/ff890589c21f4033803aa550f52c980c/).
 
+## Example
+
+After processing the ISMN soil moisture data and generating the time series plots, the following example output is obtained for a selected station:
+
+![Example_Timeseries](assets/TimeSeries_REMEDHUS_Canizal.png)
+
+*Figure 2: Example time series of soil moisture for an ISMN station (black: in situ, green: ESA CCI). Key statistics are shown on the plot: correlation (R), bias, and uRMSE.*
